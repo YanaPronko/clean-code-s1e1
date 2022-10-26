@@ -73,7 +73,7 @@ var addTask=function(){
 
 }
 
-//Edit an existing task.
+//Edit fn existing task.
 
 var editTask=function(){
     console.log("Edit Task...");
